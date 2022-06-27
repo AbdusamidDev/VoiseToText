@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextToVoise</string>
+    <string name="text_output">Text OutPut</string>
+    <string name="start_dictation">Start Dictation</string>
+</resources>
